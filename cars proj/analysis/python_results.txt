@@ -1,0 +1,24 @@
+FLIGHT BOOKING ANALYTICS RESULTS
+============================================================
+
+Q1_Total_Bookings: 5000
+Q2_Total_Revenue: 4,968,080.56
+Q3_Average_Ticket_Price: 993.62
+Q4_Total_Flights: 1000
+Q5_Total_Customers: 500
+Q6_Cancellation_Rate: 19.08%
+Q7_Most_Flights_Airline: United Airlines
+Q8_Most_Bookings_Airline: United Airlines
+Q9_Highest_Revenue_Airline: Ryanair
+Q10_Highest_Avg_Ticket_Airline: Iberia
+Q11_Longest_Avg_Duration_Airline: Saudia
+Q12_Busiest_Airport: LAX
+Q13_Country_Most_Airports: USA
+Q14_Most_Active_City: Los Angeles
+Q16_Highest_Booking_Route: DOH → AMM
+Q17_Highest_Revenue_Route: DOH → AMM
+Q18_Longest_Avg_Duration_Route: IST → LAX
+Q20_Avg_Spending_Per_Customer: 9,936.16
+Q21_Customers_Never_Booked: 0
+Q22_Customers_More_Than_One_Booking: 500
+Q23_Highest_Revenue_Travel_Class: First Class

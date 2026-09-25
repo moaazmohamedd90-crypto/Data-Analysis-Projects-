@@ -1,0 +1,146 @@
+car_id,company_id,model,category,fuel_type,model_year,price
+1,1,Corolla,Sedan,Petrol,2025,24000
+2,1,Camry,Sedan,Hybrid,2025,32000
+3,1,RAV4,SUV,Hybrid,2025,38000
+4,1,Land Cruiser,SUV,Petrol,2025,85000
+5,2,3 Series,Sedan,Petrol,2025,48000
+6,2,5 Series,Sedan,Hybrid,2025,62000
+7,2,X3,SUV,Petrol,2025,55000
+8,2,X5,SUV,Hybrid,2025,75000
+9,3,Focus,Hatchback,Petrol,2025,23000
+10,3,Mustang,Sports,Petrol,2025,45000
+11,3,Explorer,SUV,Petrol,2025,48000
+12,3,F-150,Pickup,Petrol,2025,50000
+13,4,A-Class,Sedan,Petrol,2025,42000
+14,4,C-Class,Sedan,Hybrid,2025,55000
+15,4,GLC,SUV,Hybrid,2025,65000
+16,4,GLE,SUV,Petrol,2025,85000
+17,5,Elantra,Sedan,Petrol,2025,22000
+18,5,Sonata,Sedan,Hybrid,2025,28000
+19,5,Tucson,SUV,Hybrid,2025,33000
+20,5,Ioniq 5,Electric,Electric,2025,45000
+21,6,Cerato,Sedan,Petrol,2025,23000
+22,6,Sportage,SUV,Hybrid,2025,32000
+23,6,Sorento,SUV,Hybrid,2025,40000
+24,6,EV6,Electric,Electric,2025,48000
+25,7,Civic,Sedan,Petrol,2025,25000
+26,7,Accord,Sedan,Hybrid,2025,32000
+27,7,CR-V,SUV,Hybrid,2025,36000
+28,7,Pilot,SUV,Petrol,2025,48000
+29,8,A3,Sedan,Petrol,2025,39000
+30,8,A4,Sedan,Hybrid,2025,48000
+31,8,Q5,SUV,Hybrid,2025,58000
+32,8,Q8,SUV,Petrol,2025,78000
+33,9,Golf,Hatchback,Petrol,2025,26000
+34,9,Passat,Sedan,Petrol,2025,32000
+35,9,Tiguan,SUV,Petrol,2025,35000
+36,9,ID.4,Electric,Electric,2025,42000
+37,10,Sunny,Sedan,Petrol,2025,19000
+38,10,Altima,Sedan,Petrol,2025,28000
+39,10,X-Trail,SUV,Hybrid,2025,35000
+40,10,Leaf,Electric,Electric,2025,30000
+41,11,Malibu,Sedan,Petrol,2025,25000
+42,11,Camaro,Sports,Petrol,2025,40000
+43,11,Tahoe,SUV,Petrol,2025,60000
+44,11,Silverado,Pickup,Petrol,2025,50000
+45,12,Model 3,Sedan,Electric,2025,42000
+46,12,Model Y,SUV,Electric,2025,48000
+47,12,Model S,Sedan,Electric,2025,80000
+48,12,Model X,SUV,Electric,2025,90000
+49,13,S60,Sedan,Hybrid,2025,45000
+50,13,S90,Sedan,Hybrid,2025,58000
+51,13,XC40,SUV,Electric,2025,48000
+52,13,XC90,SUV,Hybrid,2025,70000
+53,14,718 Cayman,Sports,Petrol,2025,65000
+54,14,911,Sports,Petrol,2025,120000
+55,14,Macan,SUV,Petrol,2025,65000
+56,14,Taycan,Electric,Electric,2025,95000
+57,15,IS,Sedan,Hybrid,2025,42000
+58,15,ES,Sedan,Hybrid,2025,48000
+59,15,NX,SUV,Hybrid,2025,50000
+60,15,LX,SUV,Petrol,2025,90000
+61,16,Giulia,Sedan,Petrol,2025,45000
+62,16,Stelvio,SUV,Petrol,2025,52000
+63,16,Tonale,SUV,Hybrid,2025,38000
+64,17,Vantage,Sports,Petrol,2025,150000
+65,17,DB12,Sports,Petrol,2025,220000
+66,17,DBX,SUV,Petrol,2025,190000
+67,18,Continental GT,Sports,Petrol,2025,250000
+68,18,Flying Spur,Sedan,Petrol,2025,230000
+69,18,Bentayga,SUV,Hybrid,2025,200000
+70,19,Chiron,Sports,Petrol,2025,3000000
+71,19,Mistral,Sports,Petrol,2025,5000000
+72,20,Encore,SUV,Petrol,2025,28000
+73,20,Envision,SUV,Petrol,2025,35000
+74,20,Enclave,SUV,Petrol,2025,45000
+75,21,Dolphin,Hatchback,Electric,2025,22000
+76,21,Seal,Sedan,Electric,2025,40000
+77,21,Atto 3,SUV,Electric,2025,35000
+78,22,CT4,Sedan,Petrol,2025,38000
+79,22,Escalade,SUV,Petrol,2025,85000
+80,22,Lyriq,SUV,Electric,2025,60000
+81,23,Tiggo 4,SUV,Petrol,2025,22000
+82,23,Tiggo 7,SUV,Petrol,2025,28000
+83,23,Tiggo 8,SUV,Hybrid,2025,35000
+84,24,300,Sedan,Petrol,2025,35000
+85,24,Pacifica,Van,Hybrid,2025,48000
+86,25,C3,Hatchback,Petrol,2025,20000
+87,25,C4,Hatchback,Electric,2025,28000
+88,25,C5 Aircross,SUV,Hybrid,2025,35000
+89,26,Sandero,Hatchback,Petrol,2025,15000
+90,26,Duster,SUV,Petrol,2025,22000
+91,26,Jogger,SUV,Hybrid,2025,26000
+92,27,Lanos,Sedan,Petrol,2025,18000
+93,27,Matiz,Hatchback,Petrol,2025,14000
+94,28,Terios,SUV,Petrol,2025,20000
+95,28,Mira,Hatchback,Petrol,2025,15000
+96,28,Rocky,SUV,Petrol,2025,22000
+97,29,Charger,Sedan,Petrol,2025,45000
+98,29,Challenger,Sports,Petrol,2025,50000
+99,29,Durango,SUV,Petrol,2025,55000
+100,30,Roma,Sports,Petrol,2025,250000
+101,30,296 GTB,Sports,Hybrid,2025,350000
+102,30,SF90,Sports,Hybrid,2025,500000
+103,31,500,Hatchback,Petrol,2025,18000
+104,31,Tipo,Sedan,Petrol,2025,22000
+105,31,500e,Electric,Electric,2025,30000
+106,32,Emgrand,Sedan,Petrol,2025,20000
+107,32,Coolray,SUV,Petrol,2025,25000
+108,32,Geometry C,Electric,Electric,2025,30000
+109,33,G70,Sedan,Petrol,2025,45000
+110,33,G80,Sedan,Hybrid,2025,60000
+111,33,GV70,SUV,Hybrid,2025,55000
+112,34,Haval Jolion,SUV,Petrol,2025,22000
+113,34,Haval H6,SUV,Hybrid,2025,30000
+114,34,Poer,Pickup,Petrol,2025,28000
+115,35,XE,Sedan,Petrol,2025,45000
+116,35,F-Pace,SUV,Petrol,2025,60000
+117,35,F-Type,Sports,Petrol,2025,75000
+118,36,Jesko,Sports,Petrol,2025,3000000
+119,36,Regera,Sports,Hybrid,2025,2000000
+120,37,Huracan,Sports,Petrol,2025,250000
+121,37,Urus,SUV,Petrol,2025,230000
+122,37,Revuelto,Sports,Hybrid,2025,600000
+123,38,Defender,SUV,Petrol,2025,60000
+124,38,Discovery,SUV,Hybrid,2025,70000
+125,38,Range Rover,SUV,Hybrid,2025,110000
+126,39,Corsair,SUV,Hybrid,2025,40000
+127,39,Nautilus,SUV,Hybrid,2025,55000
+128,39,Navigator,SUV,Petrol,2025,80000
+129,40,Ghibli,Sedan,Petrol,2025,85000
+130,40,Levante,SUV,Petrol,2025,95000
+131,40,GranTurismo,Sports,Petrol,2025,150000
+132,41,Mazda 3,Sedan,Petrol,2025,24000
+133,41,CX-5,SUV,Petrol,2025,30000
+134,41,CX-60,SUV,Hybrid,2025,45000
+135,42,Artura,Sports,Hybrid,2025,250000
+136,42,720S,Sports,Petrol,2025,300000
+137,43,Lancer,Sedan,Petrol,2025,22000
+138,43,Outlander,SUV,Hybrid,2025,35000
+139,43,Eclipse Cross,SUV,Hybrid,2025,30000
+140,44,208,Hatchback,Petrol,2025,21000
+141,44,308,Hatchback,Hybrid,2025,28000
+142,44,3008,SUV,Hybrid,2025,38000
+143,45,Clio,Hatchback,Petrol,2025,20000
+144,45,Megane,Hatchback,Hybrid,2025,28000
+145,45,Austral,SUV,Hybrid,2025,35000

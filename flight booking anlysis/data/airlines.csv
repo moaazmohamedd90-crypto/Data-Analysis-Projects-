@@ -1,0 +1,21 @@
+Airline_ID,Airline_Name,Country,Fleet_Size
+1,EgyptAir,Egypt,139
+2,Emirates,UAE,78
+3,Qatar Airways,Qatar,393
+4,Turkish Airlines,Turkey,314
+5,Lufthansa,Germany,145
+6,British Airways,UK,272
+7,Air France,France,300
+8,KLM,Netherlands,170
+9,Etihad Airways,UAE,469
+10,Saudia,Saudi Arabia,276
+11,Royal Jordanian,Jordan,231
+12,Iberia,Spain,388
+13,Singapore Airlines,Singapore,298
+14,Thai Airways,Thailand,274
+15,Qantas,Australia,324
+16,American Airlines,USA,65
+17,Delta Airlines,USA,216
+18,United Airlines,USA,434
+19,Ryanair,Ireland,227
+20,Air Canada,Canada,179

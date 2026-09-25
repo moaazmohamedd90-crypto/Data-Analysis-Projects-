@@ -1,0 +1,11 @@
+route,Booking_Count
+DOH → AMM,52
+JFK → AMS,45
+AMS → SYD,41
+YYZ → AMM,39
+AUH → RUH,36
+LAX → CAI,33
+JFK → ORD,33
+AUH → ORD,33
+JFK → AUH,32
+SIN → LHR,32

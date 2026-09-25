@@ -1,7 +1,0 @@
-Dataset,Rows,Columns,Missing_Values,Duplicate_Rows
-Bookings,5000,8,0,0
-Flights,1000,9,0,0
-Customers,500,6,0,0
-Airlines,20,4,0,0
-Airports,20,5,0,0
-Passengers,500,9,0,0
